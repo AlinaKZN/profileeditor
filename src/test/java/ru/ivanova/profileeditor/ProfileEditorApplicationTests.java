@@ -1,4 +1,4 @@
-package ru.alina.profileeditor;
+package ru.ivanova.profileeditor;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
